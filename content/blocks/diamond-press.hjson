@@ -2,7 +2,7 @@ type: GenericSmelter
 name: Diamond Press
 description: Uses coal, pyratite and cryofluid to make diamonds.
 rotate: false
-research: cryofluidmixer
+research: cryofluid-mixer
 category: crafting
 itemCapacity: 75
 size: 2
