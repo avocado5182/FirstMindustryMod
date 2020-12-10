@@ -2,3 +2,5 @@ type: UnitFactory
 configurable: true
 logicConfigurable: true
 category: units
+
+size: 2
