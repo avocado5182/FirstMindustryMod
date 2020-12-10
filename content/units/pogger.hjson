@@ -1,4 +1,4 @@
-type: Unit
+type: flying
 name: Pogger
 description: Poggers around the map. Fires his epic pog beam.
 flying: true
