@@ -1,0 +1,5 @@
+type: Unit
+name: Pogger
+description: Poggers around the map. Fires his epic pog beam.
+flying: true
+canBoost: true
