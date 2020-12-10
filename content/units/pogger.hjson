@@ -1,5 +1,5 @@
 type: flying
 name: Pogger
 description: Poggers around the map. Fires his epic pog beam.
-flying: true
+hovering: true
 canBoost: true
