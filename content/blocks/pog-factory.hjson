@@ -1,6 +1,7 @@
 type: UnitFactory
+
 configurable: true
 logicConfigurable: true
-category: units
+category: distribution
 
 size: 2
