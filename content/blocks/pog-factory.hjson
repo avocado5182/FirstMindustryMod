@@ -1,0 +1,4 @@
+type: UnitFactory
+configurable: true
+logicConfigurable: true
+category: units
