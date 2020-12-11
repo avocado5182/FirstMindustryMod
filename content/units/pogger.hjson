@@ -18,7 +18,7 @@ weapons: [
       backColor: #644222
     }
     
-    reload: 120
+    reload: 10
     shots: 1
     shotDelay: 10
     alternate: true
