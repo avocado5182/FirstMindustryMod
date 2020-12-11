@@ -1,5 +1,16 @@
-type: flying
+type: FlyingUnit
 name: Pogger
 description: Poggers around the map. Fires his epic pog beam.
-hovering: true
+flying: true
 canBoost: true
+
+weapons: {
+  name: pogger
+  recoil: 12
+  reload: 420
+  shots: 24
+  shotDelay: 1
+  bullet: {
+    type: meltdownLaser
+  }
+}
