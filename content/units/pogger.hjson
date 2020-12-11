@@ -11,10 +11,10 @@ weapons: [
     bullet: {
       type: ContinuousLaserBulletType
       length: 110
-      damage: 5
+      damage: 50
     }
     
-    reload: 60
+    reload: 120
     shots: 1
     shotDelay: 10
     alternate: true
