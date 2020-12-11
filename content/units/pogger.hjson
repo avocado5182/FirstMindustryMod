@@ -9,9 +9,13 @@ weapons: [
     bullet: {
       type: BasicBulletType
       lifetime: 1000
+      damage: 5
+      range: 100
       speed: 2
-      splashDamageRadius: 2
+      splashDamageRadius: 20
       splashDamage: 9
+      reload: 420
+      shots: 48
       frontColor: #ffac7a
       backColor: #644222
     }
