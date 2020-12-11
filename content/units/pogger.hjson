@@ -10,11 +10,8 @@ weapons: [
     
     bullet: {
       type: MassDriverBolt
-      lifetime: 1000
       damage: 5
       speed: 2
-      splashDamageRadius: 20
-      splashDamage: 9
     }
     
     reload: 10
