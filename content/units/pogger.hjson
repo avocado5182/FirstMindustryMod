@@ -10,6 +10,7 @@ weapons: [
     shots: 16
     shotDelay: 5
     alternate: true
+    ignoreRotation: true
     
     bullet: {
       type: BasicBulletType
