@@ -1,7 +1,5 @@
-type: Block
+name: "Pog Factory"
+description: "Creates the Pog unit."
+type: UnitFactory
 
-configurable: true
-logicConfigurable: true
-category: distribution
-
-size: 2
+unitType: firstmod-a5182-pogger
