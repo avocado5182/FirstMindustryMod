@@ -2,6 +2,7 @@ name: "Pogger"
 description: "Poggers around the map. Fires an epic pog beam. Watch out when you see it."
 
 flying: true
+speed: 2
 
 weapons: [
   {
