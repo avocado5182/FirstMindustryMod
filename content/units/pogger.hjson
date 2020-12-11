@@ -4,7 +4,8 @@ description: Poggers around the map. Fires his epic pog beam.
 flying: true
 canBoost: true
 
-weapons: {
+weapon: {
+  name: pogger
   recoil: 12
   reload: 420
   shots: 24
