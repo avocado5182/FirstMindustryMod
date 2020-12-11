@@ -10,7 +10,7 @@ weapons: [
     
     bullet: {
       type: ContinuousLaserBulletType
-      length: 110
+      length: 200
       damage: 50
     }
     
