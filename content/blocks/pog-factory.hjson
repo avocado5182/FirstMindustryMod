@@ -1,4 +1,4 @@
-type: UnitFactory
+type: Block
 
 configurable: true
 logicConfigurable: true
