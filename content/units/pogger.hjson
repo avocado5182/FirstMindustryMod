@@ -6,11 +6,6 @@ flying: true
 weapons: [
   {
     name: pogger
-    reload: 120
-    shots: 10
-    shotDelay: 10
-    alternate: true
-    ignoreRotation: true
     
     bullet: {
       type: BasicBulletType
@@ -22,5 +17,10 @@ weapons: [
       frontColor: #ffac7a
       backColor: #644222
     }
+    
+    reload: 120
+    shots: 1
+    shotDelay: 10
+    alternate: true
   }
 ]
