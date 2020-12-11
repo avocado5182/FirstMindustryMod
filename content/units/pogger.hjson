@@ -6,8 +6,9 @@ flying: true
 weapons: [
   {
     name: pogger
-    reload: 12
+    reload: 60
     shots: 32
+    shotDelay: 6
     
     bullet: {
       type: BasicBulletType
