@@ -6,7 +6,7 @@ flying: true
 weapons: [
   {
     name: pogger
-    reload: 60
+    reload: 12
     shots: 32
     
     bullet: {
