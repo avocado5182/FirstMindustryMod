@@ -9,7 +9,7 @@ weapons: [
     name: pogger
     
     bullet: {
-      type: MassDriverBolt
+      type: LaserBoltBullet
       lifetime: 500
       damage: 5
     }
