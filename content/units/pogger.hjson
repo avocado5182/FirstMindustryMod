@@ -9,14 +9,11 @@ weapons: [
     name: pogger
     
     bullet: {
-      type: ContinuousLaserBulletType
-      length: 110
-      lifetime: 8
-      largeHit: false
+      type: LaserBulletType
       damage: 5
     }
     
-    reload: 120
+    reload: 60
     shots: 1
     shotDelay: 10
     alternate: true
