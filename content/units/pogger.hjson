@@ -9,7 +9,7 @@ weapons: [
     name: pogger
     
     bullet: {
-      type: ContinuousLaserBullet
+      type: ContinuousLaserBulletType
       lifetime: 500
       damage: 5
     }
