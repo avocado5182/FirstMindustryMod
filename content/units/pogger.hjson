@@ -1,16 +1,11 @@
-type: flying
-name: Pogger
-description: Poggers around the map. Fires his epic pog beam.
-flying: true
-canBoost: true
+name: "Pogger"
+description: "Poggers around the map. Fires an epic pog beam. Watch out when you see it."
 
-weapon: {
-  name: pogger
-  recoil: 12
-  reload: 420
-  shots: 24
-  shotDelay: 1
-  bullet: {
-    type: meltdownLaser
+weapons: [
+  {
+    name: pogger
+    bullet: {
+      type: MassDriverBolt
+    }
   }
-}
+]
