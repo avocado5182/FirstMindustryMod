@@ -3,5 +3,8 @@ description: "Creates the Pog unit."
 type: UnitFactory
 category: units
 
+outputsPayload: true
+acceptsItems: true
+
 size: 2
 configurable: true
