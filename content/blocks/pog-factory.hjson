@@ -12,16 +12,19 @@
   ],
   "consumes": {
     "power": 1,
-    "items": {
-      "items": [
-        "silicon/50",
-        "diamond/10"
-      ]
-    },
     "liquid": {
       "liquid": "water",
       "amount": 0.2,
       "booster": false
     }
-  }
+  },
+  "plans": [
+    {
+      "unit": "pogger",
+      "requirements": [
+        "silicon/50",
+        "diamonds/10"
+      ]
+    }
+  ]
 }
