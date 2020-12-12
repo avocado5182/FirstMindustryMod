@@ -23,7 +23,7 @@
       "unit": "pogger",
       "requirements": [
         "silicon/50",
-        "diamonds/10"
+        "diamond/10"
       ]
     }
   ]
