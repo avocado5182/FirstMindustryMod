@@ -4,6 +4,7 @@ category: units
 
 outputsPayload: true
 acceptsItems: true
+breakable: true
 
 requirements: [
   copper/150
