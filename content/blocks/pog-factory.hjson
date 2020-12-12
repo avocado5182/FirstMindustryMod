@@ -4,6 +4,7 @@ category: units
 
 size: 3
 configurable: true
+rotate: true
 
 acceptsItems: true
 
