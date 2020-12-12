@@ -1,21 +1,23 @@
-name: Diamond Drill
-description: An amazingly fast drill that can mine anything.
-type: Drill
-size: 2
-tier: 3
-drillTime: 200
-consumes: {
-  power: 3
-  liquid: {
-    liquid: water
-    amount: 0.1
-    booster: true
-  }
+{
+  "name": "Diamond Drill",
+  "description": "An amazingly fast drill that can mine anything.",
+  "type": "Drill",
+  "size": 2,
+  "tier": 3,
+  "drillTime": 200,
+  "consumes": {
+    "power": 3,
+    "liquid": {
+      "liquid": "water",
+      "amount": 0.1,
+      "booster": true
+    }
+  },
+  "requirements": [
+    "diamond/100",
+    "silicon/75",
+    "graphite/80"
+  ],
+  "category": "production",
+  "research": "laser-drill"
 }
-requirements: [
-  diamond/100
-  silicon/75
-  graphite/80
-]
-category: production
-research: laser-drill
