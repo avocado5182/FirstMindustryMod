@@ -1,10 +1,8 @@
 name: "Pog Factory"
 description: "Creates the Pog unit."
+
 size: 3
 category: units
-
-configurable: true
-rotate: true
 
 acceptsItems: true
 
