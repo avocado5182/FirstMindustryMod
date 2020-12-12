@@ -1,7 +1,7 @@
 {
   "name": "Pog Factory",
   "description": "Creates the Pog unit.",
-  "size": 3,
+  "size": 5,
   "category": "units",
   "acceptsItems": true,
   "requirements": [
