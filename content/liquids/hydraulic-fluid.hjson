@@ -1,6 +1,0 @@
-name: Hydraulic Fluid
-description: A liquid used in conjunction with the hydraulic press to create intense pressure.
-temperature: 0.9
-viscosity: 0.8
-effect: melting
-color: add8e6
