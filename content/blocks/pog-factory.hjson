@@ -5,11 +5,11 @@ category: units
 outputsPayload: true
 acceptsItems: true
 
-//  requirements: [
-//    copper/150
-//    lead/200
-//    diamond/50
-//  ]
+requirements: [
+  copper/150
+  lead/200
+  diamond/50
+]
 
 //  consumes: {
 //    power: 144
