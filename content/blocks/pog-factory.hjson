@@ -5,26 +5,26 @@ category: units
 outputsPayload: true
 acceptsItems: true
 
-requirements: [
-  copper/150
-  lead/200
-  diamond/50
-]
+//  requirements: [
+//    copper/150
+//    lead/200
+//    diamond/50
+//  ]
 
-consumes: {
-  power: 144
-  items: {
-    items: [
-      silicon/50
-      diamond/10
-    ]
-  }
-  liquid: {
-    liquid: water
-    amount: 0.5
-    booster: false
-  }
-}
+//  consumes: {
+//    power: 144
+//    items: {
+//      items: [
+//        silicon/50
+//        diamond/10
+//      ]
+//    }
+//    liquid: {
+//      liquid: water
+//      amount: 0.5
+//      booster: false
+//    }
+//  }
 
 size: 2
 configurable: true
