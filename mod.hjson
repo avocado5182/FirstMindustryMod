@@ -2,5 +2,5 @@ name:firstmod-a5182
 displayName: "Epic Mindustry Mod"
 author: "avocado5182"
 description: "Dumb mod that does dumb stuff."
-version: "1.4"
-minGameVersion: "105"
+version: "1.5"
+minGameVersion: "120"
