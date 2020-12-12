@@ -1,15 +1,15 @@
-type: Conveyor
-name: Diamond Conveyor
-description: A fast conveyor made with diamonds. Virtually unbreakable.
-health: 1500
-
-requirements: [
-  titanium/3
-  graphite/3
-  lead/3
-  diamond/3
-]
-
-category: distribution
-speed: 0.08
-research: titanium-conveyor
+{
+  "type": "Conveyor",
+  "name": "Diamond Conveyor",
+  "description": "A fast conveyor made with diamonds. Virtually unbreakable.",
+  "health": 5000,
+  "requirements": [
+    "titanium/3",
+    "graphite/3",
+    "lead/3",
+    "diamond/3"
+  ],
+  "category": "distribution",
+  "speed": 0.08,
+  "research": "titanium-conveyor"
+}
