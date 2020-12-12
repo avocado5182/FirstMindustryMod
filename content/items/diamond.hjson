@@ -1,5 +1,7 @@
-name: Diamond
-description: A rare yet useful resource.
-hardness: 2
-cost: 2
-color: 00ffff
+{
+  "name": "Diamond",
+  "description": "A rare yet useful resource.",
+  "hardness": 2,
+  "cost": 2,
+  "color": "00ffff"
+}
