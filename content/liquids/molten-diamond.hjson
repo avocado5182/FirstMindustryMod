@@ -1,6 +1,8 @@
-name: Molten Diamond
-description: A molten diamond made with intense pressure.
-temperature: 0.9
-viscosity: 0.8
-effect: melting
-color: B59467
+{
+  "name": "Molten Diamond",
+  "description": "A molten diamond made with intense pressure.",
+  "temperature": 0.9,
+  "viscosity": 0.8,
+  "effect": "melting",
+  "color": "B59467"
+}
