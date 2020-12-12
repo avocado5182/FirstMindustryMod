@@ -1,37 +1,33 @@
-type: GenericSmelter
-name: Diamond Press
-description: Uses coal, pyratite and cryofluid to make diamonds.
-rotate: false
-research: cryofluid-mixer
-category: crafting
-itemCapacity: 75
-size: 2
-
-requirements: [
-  silicon/25
-  graphite/35
-]
-
-consumes: {
-  items: {
-    items: [
-      coal/15
-      pyratite/25
-    ]
-  }
-
-  liquid: {
-    liquid: cryofluid
-    amount: .05
-  }
-
-  power: 150
+{
+  "type": "GenericSmelter",
+  "name": "Diamond Press",
+  "description": "Uses coal, pyratite and cryofluid to make diamonds.",
+  "rotate": false,
+  "research": "cryofluid-mixer",
+  "category": "crafting",
+  "itemCapacity": 75,
+  "size": 2,
+  "requirements": [
+    "silicon/25",
+    "graphite/35"
+  ],
+  "consumes": {
+    "items": {
+      "items": [
+        "coal/15",
+        "pyratite/25"
+      ]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": ".05"
+    },
+    "power": 150
+  },
+  "outputItem": {
+    "item": "diamond",
+    "amount": 2
+  },
+  "craftTime": 70,
+  "updateEffect": "smeltsmoke"
 }
-
-outputItem: {
-  item: diamond
-  amount: 2
-}
-
-craftTime: 70
-updateEffect: smeltsmoke
