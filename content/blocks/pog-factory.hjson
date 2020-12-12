@@ -2,9 +2,6 @@ name: "Pog Factory"
 description: "Creates the Pog unit."
 category: units
 
-size: 2
-configurable: true
-
 outputsPayload: true
 acceptsItems: true
 
@@ -28,3 +25,6 @@ consumes: {
     booster: false
   }
 }
+
+size: 2
+configurable: true
