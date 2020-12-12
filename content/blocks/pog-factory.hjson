@@ -13,7 +13,7 @@ requirements: [
 ]
 
 consumes: {
-  power: 144
+  power: 2
   items: {
     items: [
       silicon/50
@@ -22,7 +22,7 @@ consumes: {
   }
   liquid: {
     liquid: water
-    amount: 0.5
+    amount: 0.2
     booster: false
   }
 }
