@@ -16,7 +16,7 @@ requirements: [
 ]
 
 consumes: {
-  power: 2
+  power: 1
   items: {
     items: [
       silicon/50
