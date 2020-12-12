@@ -5,7 +5,6 @@ category: units
 size: 2
 configurable: true
 
-outputsPayload: true
 acceptsItems: true
 breakable: true
 
