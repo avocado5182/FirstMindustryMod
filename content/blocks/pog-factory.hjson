@@ -2,4 +2,4 @@ name: "Pog Factory"
 description: "Creates the Pog unit."
 type: UnitFactory
 
-unitType: firstmod-a5182-pogger
+configurable: true
