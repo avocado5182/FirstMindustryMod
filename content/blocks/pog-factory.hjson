@@ -1,5 +1,7 @@
 name: "Pog Factory"
 description: "Creates the Pog unit."
 type: UnitFactory
+category: units
 
+size: 2
 configurable: true
