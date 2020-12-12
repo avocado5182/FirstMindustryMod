@@ -6,7 +6,6 @@ size: 3
 configurable: true
 
 acceptsItems: true
-breakable: true
 
 requirements: [
   copper/150
