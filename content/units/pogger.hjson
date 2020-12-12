@@ -1,23 +1,21 @@
-name: "Pogger"
-description: "Poggers around the map. Fires an epic pog beam. Watch out when you see it."
-
-flying: true
-speed: 2
-
-weapons: [
-  {
-    name: pogger
-    
-    bullet: {
-      type: ContinuousLaserBulletType
-      lifetime: 120
-      length: 200
-      damage: 50
+{
+  "name": "Pogger",
+  "description": "Poggers around the map. Fires an epic pog beam. Watch out when you see it.",
+  "flying": true,
+  "speed": 2,
+  "weapons": [
+    {
+      "name": "pogger",
+      "bullet": {
+        "type": "ContinuousLaserBulletType",
+        "lifetime": 120,
+        "length": 200,
+        "damage": 50
+      },
+      "reload": 120,
+      "shots": 1,
+      "shotDelay": 10,
+      "alternate": true
     }
-    
-    reload: 120
-    shots: 1
-    shotDelay: 10
-    alternate: true
-  }
-]
+  ]
+}
