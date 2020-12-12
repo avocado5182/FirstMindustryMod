@@ -1,6 +1,0 @@
-type: Block
-name: Hydraulic Press
-description: Uses a material and hydraulic fluid to create intense pressure, liquefying the material.
-size: 2
-configurable: true
-category: power
